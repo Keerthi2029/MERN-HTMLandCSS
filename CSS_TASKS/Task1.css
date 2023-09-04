@@ -1,0 +1,22 @@
+/* table,th,td{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: #97D2D3;
+    text-align: center;
+    align-content: center;
+    margin-top: 10px;
+} */
+
+
+table, th, td {
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: #97D2D3;
+    align-content: center;
+}
+table, th {
+    text-align: center;
+}
+td {
+    padding-right: 200px;
+}
